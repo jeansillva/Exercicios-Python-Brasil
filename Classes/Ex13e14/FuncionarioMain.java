@@ -6,5 +6,6 @@ public class FuncionarioMain {
         f1.retornaNome();
         f1.retornaSalario();
         f1.aumentarSalario(0.10);
+        f1.retornaSalario();
     }
 }
