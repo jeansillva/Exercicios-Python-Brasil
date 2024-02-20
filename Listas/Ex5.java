@@ -1,7 +1,5 @@
 package Listas;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ex5 {
@@ -14,6 +12,7 @@ public class Ex5 {
             System.out.println("Digite o " + (i + 1) + " numero: ");
             inteiros[i] = sc.nextInt();
         }
+        sc.close();
 
     }
 }

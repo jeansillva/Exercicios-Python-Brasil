@@ -1,6 +1,5 @@
 package Listas;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ex7 {
@@ -29,6 +28,7 @@ public class Ex7 {
 
         System.out.println("Soma: " + soma);
         System.out.println("Multiplicação: " + multiplicacao);
+        sc.close();
 
     }
 }

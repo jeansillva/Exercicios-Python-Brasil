@@ -11,5 +11,6 @@ public class TamagushiMain {
 
         Tamagushi t2 = new Tamagushi(comida, diversaoEmHoras);
         t2.exibeHumor();
+        sc.close();
     }
 }
